@@ -14,5 +14,5 @@ resultado_1=resta2(10,1)#9
 resultado_2=resta2(8,3)#5
 #forma decente
 print(resultado_1-resultado_2)#4
-#forma bizarra
+#forma bizarras
 print(resta2(10,1)+resta2(8,3))#14

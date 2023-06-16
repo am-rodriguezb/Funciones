@@ -1,5 +1,4 @@
-def suma(num_1:int (num_2)):
-         return
+
 
 menu_principal=True
 while menu_principal:
